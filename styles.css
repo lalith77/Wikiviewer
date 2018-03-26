@@ -1,19 +1,6 @@
-.space 
-{
-  
-  width: 200px;
-  border-radius: 5px;
-}
-
 
 h1{
     font-size: 50px;
-}
-.blocks
-{
-  width:1000px;
-  border-radius:10px;
-  margin-left:130px;
 }
 
 .align-items-center {
@@ -35,7 +22,7 @@ h1{
     border-radius: 5px;
 }
 
-button{
+.btn{
     background-color: white;
     color:black;
     height:35px;
@@ -79,6 +66,14 @@ button{
 
 .resulttitle {
   margin: 20px 0px 0px 0px;
+}
+
+.glyphicon{
+  position:relative;
+  left: -40px;
+  border: none;
+  color:rgb(87, 87, 243);
+  font-size:20px;
 }
 
 
