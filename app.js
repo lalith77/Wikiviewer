@@ -46,7 +46,6 @@ $(document).ready(function () {
 
     }
 
-    //TODO: to make links, create link like wikepedia.org/title , where title's spaces are replaced with underscores
 
 
 });
